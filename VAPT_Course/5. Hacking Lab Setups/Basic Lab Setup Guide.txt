@@ -1,0 +1,29 @@
+Free Video Tutorial:
+	Hindi: https://www.youtube.com/watch?v=MxRBsNmNfbs&list=PLIoshY6QFPgS1cwCKv1idF091XqKNDAiJ&index=3 
+	English: coming soon...
+
+Host OS: Windows
+Virtualization Software: Vmware / VirtualBox (prefereably both)
+	1. VMWARE Workstation Pro:
+		https://www.vmware.com/in/products/workstation-pro/workstation-pro-evaluation.html
+	2. VirtualBox:
+		https://www.virtualbox.org/wiki/Downloads
+	3. 7-Zip:
+		https://7-zip.org/download.html
+	4. Kali Linux:
+		vmware image: https://kali.download/base-images/kali-2022.4/kali-linux-2022.4-vmware-amd64.7z
+		virtualbox image: https://kali.download/base-images/kali-2022.4/kali-linux-2022.4-virtualbox-amd64.7z
+	5. Victim Machines/ Punching Bags:
+		Vulnhub: https://vulnhub.com/entry/sar-1,425/
+		THM:
+		HTB: 
+
+We offer VAPT Trainings in 3 flavours. 
+	1. using Vulnhub/ OSPG labs
+	2. using THM labs 
+	3. using Hacktheox labs
+
+For registrations send a whatsapp text on: +91 9999329442 [Whatsapp Only]
+
+
+
